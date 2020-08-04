@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">dz_3_2_2_and</string>
+    <string name="name_dz">Калькулятор</string>
+    <string name="str_btn_0">0</string>
+    <string name="str_btn_1">1</string>
+    <string name="str_btn_2">2</string>
+    <string name="str_btn_3">3</string>
+    <string name="str_btn_4">4</string>
+    <string name="str_btn_5">5</string>
+    <string name="str_btn_6">6</string>
+    <string name="str_btn_7">7</string>
+    <string name="str_btn_8">8</string>
+    <string name="str_btn_9">9</string>
+    <string name="str_btn_dot">.</string>
+
+    <string name="str_btn_c">C</string>
+    <string name="str_btn_sign">+/-</string>
+    <string name="str_btn_percent">%</string>
+    <string name="str_btn_div">÷</string>
+    <string name="str_btn_mul">×</string>
+    <string name="str_btn_sub">-</string>
+    <string name="str_btn_sum">+</string>
+    <string name="str_btn_result">=</string>
+    <string name="str_btn_del">Del</string>
+
+    <string name="str_btn_sin">sin</string>
+    <string name="str_btn_cos">cos</string>
+    <string name="str_btn_tg">tg</string>
+    <string name="str_btn_square">√</string>
+    <string name="str_btn_x2">x²</string>
+    <string name="str_btn_1_x">1/x</string>
+
+    <string name="str_btn_ln">ln</string>
+    <string name="str_btn_log">log</string>
+    <string name="str_btn_skobka9">(</string>
+    <string name="str_btn_skobka0">)</string>
+    <string name="str_btn_msum">M+</string>
+    <string name="str_btn_mreset">MR</string>
+
+    <string name="str_txt_I">I</string>
+    <string name="str_txt_V">V</string>
+    <string name="str_txt_A">A</string>
+    <string name="str_txt_N">N</string>
+    <string name="str_txt_O">O</string>
+
+    <string name="str_btn_ch_view">Переключить</string>
+
+
+</resources>
